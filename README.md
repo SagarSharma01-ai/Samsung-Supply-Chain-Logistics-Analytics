@@ -1,9 +1,12 @@
-<img width="1600" height="425" alt="Samsung_Orig_Wordmark_WHITE_RGB" src="https://github.com/user-attachments/assets/f6df10be-f96a-42d1-8d21-6eacabc129c8" /><img width="1600" height="425" alt="Samsung_Orig_Wordmark_WHITE_RGB" src="https://github.com/user-attachments/assets/f6df10be-f96a-42d1-8d21-6eacabc129c8" />
+<img width="1600" height="425" alt="Samsung_Orig_Wordmark_WHITE_RGB" src="https://github.com/user-attachments/assets/f6df10be-f96a-42d1-8d21-6eacabc129c8" />
 
 # Samsung Supply Chain & Logistics Analytics 📦📊
 
 ## Project Overview
 This project presents a comprehensive data analytics solution for Samsung's global supply chain. It transforms raw logistics, supplier, and inventory data into an interactive Power BI dashboard to drive strategic decision-making.
+
+<img width="495" height="330" alt="in-galaxy-s25-s938-sm-s938bakbins-thumb-544702689" src="https://github.com/user-attachments/assets/a7209df5-e1f9-4d3c-a576-c58d7ced37ef" />
+
 
 ## Key Insights Captured
 Revenue & Profit: Analyzed $186.86M gross revenue with a 27.44% margin.
@@ -13,6 +16,9 @@ Revenue & Profit: Analyzed $186.86M gross revenue with a 27.44% margin.
 ## Supplier Performance: Monitoring lead times and cost-volume correlations for key components like OLED panels.
 
 ## Inventory Health: Tracking defect rates and safety stock levels for flagship models (S24 Ultra, Z Fold).
+
+<img width="1334" height="751" alt="Screenshot 2026-02-18 195708" src="https://github.com/user-attachments/assets/578b2135-5907-43e9-8857-024e1f23aab5" />
+
 
 ## Tech Stack
 Tool: Power BI Desktop
