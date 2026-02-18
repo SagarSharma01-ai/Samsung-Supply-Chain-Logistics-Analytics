@@ -49,7 +49,7 @@ Passionate about turning raw data into meaningful business stories. This Samsung
 📫 Reach out to me:
 
 Email: ssharma9663@gmail.com
-LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/sagar-sharma-712ba4324/)]
-Portfolio: [Your Portfolio/GitHub Profile Link]
+LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/sagar-sharma-712ba4324/)]
+Portfolio: [GitHub Profile Link](https://github.com/SagarSharma01-ai/Samsung-Supply-Chain-Logistics-Analytics/edit/main/README.md)
 
 ![samsung-samsung-galaxy (1)](https://github.com/user-attachments/assets/76d17e1b-f0d9-4d5c-aee9-a5505e3d9ec7)
