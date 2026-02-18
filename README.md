@@ -1,3 +1,5 @@
+<img width="1600" height="425" alt="Samsung_Orig_Wordmark_WHITE_RGB" src="https://github.com/user-attachments/assets/f6df10be-f96a-42d1-8d21-6eacabc129c8" /><img width="1600" height="425" alt="Samsung_Orig_Wordmark_WHITE_RGB" src="https://github.com/user-attachments/assets/f6df10be-f96a-42d1-8d21-6eacabc129c8" />
+
 # Samsung Supply Chain & Logistics Analytics 📦📊
 
 ## Project Overview
