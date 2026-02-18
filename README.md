@@ -1,4 +1,4 @@
-Samsung Supply Chain & Logistics Analytics 📦📊
+## Samsung Supply Chain & Logistics Analytics 📦📊
 
 # Project Overview
 This project presents a comprehensive data analytics solution for Samsung's global supply chain. It transforms raw logistics, supplier, and inventory data into an interactive Power BI dashboard to drive strategic decision-making.
