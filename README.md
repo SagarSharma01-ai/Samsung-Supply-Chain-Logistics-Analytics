@@ -11,23 +11,30 @@ This project presents a comprehensive data analytics solution for Samsung's glob
 ## Key Insights Captured
 Revenue & Profit: Analyzed $186.86M gross revenue with a 27.44% margin.
 
-## Logistics Bottlenecks: Root cause analysis of 573 delayed shipments (Port Congestion & Documentation).
+## Logistics Bottlenecks: 
+Root cause analysis of 573 delayed shipments (Port Congestion & Documentation).
 
-## Supplier Performance: Monitoring lead times and cost-volume correlations for key components like OLED panels.
+## Supplier Performance: 
+Monitoring lead times and cost-volume correlations for key components like OLED panels.
 
-## Inventory Health: Tracking defect rates and safety stock levels for flagship models (S24 Ultra, Z Fold).
+## Inventory Health: 
+Tracking defect rates and safety stock levels for flagship models (S24 Ultra, Z Fold).
 
 <img width="1334" height="751" alt="Screenshot 2026-02-18 195708" src="https://github.com/user-attachments/assets/578b2135-5907-43e9-8857-024e1f23aab5" />
 
 
 ## Tech Stack
 Tool: Power BI Desktop
+![zfold5-z-fold-5](https://github.com/user-attachments/assets/4bd3053b-be22-4669-a7ae-5a1f318d0207)
 
-## Language: DAX (Data Analysis Expressions) for complex KPIs.
+## Language: 
+DAX (Data Analysis Expressions) for complex KPIs.
 
-## Process: ETL (Extract, Transform, Load) using Power Query.
+## Process: 
+ETL (Extract, Transform, Load) using Power Query.
 
-## Presentation: Aesthetic business report designed for executive stakeholders.
+## Presentation: 
+Aesthetic business report designed for executive stakeholders.
 
 ## Files in this Repository
 Samsung_Supply_Chain_Dashboard.pbix: The core Power BI file.
@@ -35,12 +42,14 @@ Operational_Intelligence_Report.pdf: 11-page detailed business analysis.
 Screenshots/: High-resolution captures of all dashboard modules.
 
 ## 👤 About the Author
-## Sagar Sharma Aspiring Data Analyst | Business Intelligence Specialist
+### Sagar Sharma Aspiring Data Analyst | Business Intelligence Specialist
 
 Passionate about turning raw data into meaningful business stories. This Samsung project showcases my ability to handle end-to-end data pipelines, from cleaning complex datasets to delivering executive-level insights.
 
 📫 Reach out to me:
 
-## Email: ssharma9663@gmail.com
-## LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/sagar-sharma-712ba4324/)]
-## Portfolio: [Your Portfolio/GitHub Profile Link]
+Email: ssharma9663@gmail.com
+LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/sagar-sharma-712ba4324/)]
+Portfolio: [Your Portfolio/GitHub Profile Link]
+
+![samsung-samsung-galaxy (1)](https://github.com/user-attachments/assets/76d17e1b-f0d9-4d5c-aee9-a5505e3d9ec7)
